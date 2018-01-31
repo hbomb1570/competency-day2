@@ -1,0 +1,10 @@
+.showStuff {
+    height: 80vh;
+    width: 100vw;
+    display:flex;
+}
+
+.quoteDiv {
+    height: 20vh;
+    width: 30vw;
+}
